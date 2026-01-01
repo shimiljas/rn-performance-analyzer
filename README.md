@@ -2,7 +2,7 @@
 
 A comprehensive web-based tool for analyzing React Native application performance. Upload your performance trace JSON and get actionable insights, bottleneck detection, and optimization recommendations.
 
-## ✨ Features
+## Features
 
 - **Performance Health Score** - Overall grade (A-F) based on multiple performance metrics
 - **Critical Issues Detection** - Identifies slow renders, heavy components, and bottlenecks
@@ -13,11 +13,11 @@ A comprehensive web-based tool for analyzing React Native application performanc
 - **Visual Charts** - Interactive performance visualizations using Recharts
 - **File Analysis** - Per-file performance metrics and insights
 
-## 🚀 Demo
+## Demo
 
 Visit the live demo: [https://shimiljas.github.io/rn-performance-analyzer/](https://shimiljas.github.io/rn-performance-analyzer/)
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed:
 
@@ -30,7 +30,7 @@ node --version  # Should be v18.0.0 or higher
 npm --version   # Should be v9.0.0 or higher
 ```
 
-## 🛠️ Local Setup
+## Local Setup
 
 ### 1. Clone the repository
 
@@ -55,7 +55,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 
 The page will automatically reload when you make changes to the code.
 
-## 📦 Building for Production
+## Building for Production
 
 ### Build the application
 
@@ -73,7 +73,7 @@ You can serve the production build locally using any static file server:
 npx serve out
 ```
 
-## 🚢 Deployment
+## Deployment
 
 ### Deploy to GitHub Pages
 
@@ -104,7 +104,7 @@ The static export works with any static hosting service:
 - **AWS S3**: Upload `out` folder contents
 - **Cloudflare Pages**: Connect your repository
 
-## 📱 How to Use
+## How to Use
 
 ### 1. Generate Performance Trace
 
@@ -120,7 +120,7 @@ To capture performance data from your React Native app:
 2. Click the **Record** button (circle icon)
 3. Interact with your app (navigate, scroll, perform actions)
 4. Click **Stop** recording when done
-5. Click the **Download** button (💾) to export the profiling data as JSON
+5. Click the **Download** button to export the profiling data as JSON
 
 **Step 3: Save the JSON file**
 - The file will be downloaded as `profiling-data.json` or similar
@@ -140,7 +140,7 @@ To capture performance data from your React Native app:
 
 Follow the prioritized recommendations to optimize your app's performance.
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 rn-performance-analyzer/
@@ -166,7 +166,7 @@ rn-performance-analyzer/
 └── next.config.js       # Next.js configuration
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Next.js 14** - React framework with static export
 - **TypeScript** - Type safety
@@ -174,14 +174,14 @@ rn-performance-analyzer/
 - **Recharts** - Data visualization
 - **GitHub Actions** - CI/CD pipeline
 
-## 📝 Available Scripts
+## Available Scripts
 
 - `npm run dev` - Start development server on port 3000
 - `npm run build` - Build production-ready static site
 - `npm start` - Start Next.js production server (not needed for static export)
 - `npm run lint` - Run ESLint for code quality
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -191,11 +191,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
-## 🙋 Support
+## Support
 
 If you have questions or need help, please:
 - Open an issue in the repository
@@ -204,4 +204,4 @@ If you have questions or need help, please:
 
 ---
 
-Made with ❤️ for the React Native community
+Made with love for the React Native community
