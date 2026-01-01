@@ -2,7 +2,11 @@
 
 A comprehensive web-based tool for analyzing React Native application performance. Upload your performance trace JSON and get actionable insights, bottleneck detection, and optimization recommendations.
 
-https://github.com/user-attachments/assets/db2a3790-dd28-4e2c-b603-31519900e353
+
+
+
+
+https://github.com/user-attachments/assets/1e0bb0c8-2e32-4fa0-ac73-ad75fd76e8a7
 
 
 
