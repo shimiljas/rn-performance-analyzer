@@ -303,7 +303,10 @@ export default function PerformanceInsightsComponent({ insights }: PerformanceIn
           <div className="space-y-2">
             {insights.stateManagementIssues.map((issue, idx) => (
               <div key={idx} className="border-l-4 border-purple-400 pl-3 py-2 bg-purple-50">
-                {issue}
+                <div className="font-semibold text-purple-900 capitalize">
+                  {issue.type.replace('-', ' ')} - {issue.component}
+                </div>
+                <div className="text-sm text-gray-700 mt-1">{issue.description}</div>
               </div>
             ))}
             <div className="mt-3 p-3 bg-blue-50 rounded text-sm text-gray-700">

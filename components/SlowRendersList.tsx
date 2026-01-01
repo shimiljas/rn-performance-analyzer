@@ -11,7 +11,7 @@ export default function SlowRendersList({ slowFibers }: SlowRendersListProps) {
     <div className="bg-white rounded-lg shadow-md overflow-hidden">
       <div className="bg-gray-50 px-6 py-4 border-b border-gray-200">
         <h3 className="text-lg font-bold text-gray-900">
-          🐌 Slowest Individual Component Renders (>16ms)
+          🐌 Slowest Individual Component Renders (&gt;16ms)
         </h3>
       </div>
 
