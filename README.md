@@ -15,7 +15,7 @@ A comprehensive web-based tool for analyzing React Native application performanc
 
 ## 🚀 Demo
 
-Visit the live demo: [https://[your-username].github.io/rn-performance-analyzer/](https://[your-username].github.io/rn-performance-analyzer/)
+Visit the live demo: [https://shimiljas.github.io/rn-performance-analyzer/](https://shimiljas.github.io/rn-performance-analyzer/)
 
 ## 📋 Prerequisites
 
@@ -35,7 +35,7 @@ npm --version   # Should be v9.0.0 or higher
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/[your-username]/rn-performance-analyzer.git
+git clone https://github.com/shimiljas/rn-performance-analyzer.git
 cd rn-performance-analyzer
 ```
 
@@ -93,7 +93,7 @@ This project is configured to automatically deploy to GitHub Pages via GitHub Ac
 3. **Monitor deployment:**
    - Go to the "Actions" tab in your repository
    - Watch the deployment workflow complete
-   - Your site will be live at: `https://[your-username].github.io/rn-performance-analyzer/`
+   - Your site will be live at: `https://shimiljas.github.io/rn-performance-analyzer/`
 
 ### Deploy to other platforms
 
