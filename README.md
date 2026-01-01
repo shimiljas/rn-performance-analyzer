@@ -195,6 +195,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License.
 
+## Inspiration
+
+This project was inspired by [Karim Hekal's article on React Native Performance Debugging](https://medium.com/@karimhekal/how-i-evolved-my-react-native-performance-debugging-and-how-i-measure-performance-optimizations-5277ac5354a1). Special thanks for the insights on measuring and optimizing React Native performance.
+
 ## Support
 
 If you have questions or need help, please:
