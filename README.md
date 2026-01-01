@@ -2,6 +2,13 @@
 
 A comprehensive web-based tool for analyzing React Native application performance. Upload your performance trace JSON and get actionable insights, bottleneck detection, and optimization recommendations.
 
+https://github.com/user-attachments/assets/db2a3790-dd28-4e2c-b603-31519900e353
+
+
+
+
+
+
 ## Features
 
 - **Performance Health Score** - Overall grade (A-F) based on multiple performance metrics
